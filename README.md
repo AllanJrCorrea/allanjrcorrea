@@ -1,4 +1,4 @@
-## Olá!! Eu sou o ALLAN 😁
+## Hello!! Eu sou o ALLAN 😁
 
 
 <div align="center">

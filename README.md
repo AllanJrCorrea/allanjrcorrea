@@ -10,9 +10,7 @@ Estou entusiasmado em me tornar parte dessa comunidade de desenvolvedores e cont
 
 Se você estiver interessado em colaborar, aprender junto ou discutir projetos relacionados à programação, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades e conexões dentro desse campo inspirador.
 
-Obrigado por conhecer um pouco mais sobre mim! Estou animado com o que o futuro reserva na minha jornada como desenvolvedor.
 </p>
-
 
 <p align="left">
   💌 Contatos: ⤵️
